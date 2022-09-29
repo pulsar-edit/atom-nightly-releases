@@ -1,3 +1,5 @@
+### This Repo is now Archived under Pulsar-Edit because it contains a build/release process that we do not plan to continue.
+
 # Atom Nightly Releases
 
 Provides Atom Nightly Releases to be served by [update.electronjs.org](https://github.com/electron/update.electronjs.org)
